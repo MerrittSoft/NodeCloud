@@ -5,7 +5,8 @@ where router port forwarding is not possable and you don't want to use a 3rd par
 In this artical ill be using an Android App that I am developing
 called NodeController, its sends commands to the NodeMCU ESP8266,
 
-NodeController is an Android app that can pe found on Google Play
+NodeController is an Android app that can pe found on Google Play,
+
 https://play.google.com/store/apps/details?id=appinventor.ai_melissa2227.NodeController
 
 You could send the command from a Web Browser address bar,
