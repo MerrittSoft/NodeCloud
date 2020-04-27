@@ -3,7 +3,8 @@ A basic Cloud for NodeMCU ESP8266 using a NodeMCU
 NodeCloud is a working NodeMCU ESP8266 Cloud conecept using the NodeMCU to control a remote NodeMCU
 where router port forwarding is not possable and you don't want to use a 3rd party cloud service
 In this artical ill be using an Android App that I am developing
-called NodeController, its sends commands to the NodeMCU ESP8266
+called NodeController, its sends commands to the NodeMCU ESP8266,
+
 NodeController is an Android app that can pe found on Google Play
 https://play.google.com/store/apps/details?id=appinventor.ai_melissa2227.NodeController
 
