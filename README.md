@@ -8,6 +8,7 @@ NodeController is an Android app that can pe found on Google Play
 https://play.google.com/store/apps/details?id=appinventor.ai_melissa2227.NodeController
 
 You could send the command from a Web Browser address bar,
+
 format: ip-address:port/COMMAND   ,eg:  10.220.1.22:80/RELAY1ON
 would turn Relay 1 ON.
 
